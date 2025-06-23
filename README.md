@@ -11,7 +11,7 @@ This tool helps in:
 - Comparing user-marked answers to an official answer key
 - Handling unattempted and invalid answers gracefully
 - Exporting detailed results to a new Excel file (
-eet_scoring_details.xlsx)
+neet_scoring_details.xlsx)
 
 ---
 
